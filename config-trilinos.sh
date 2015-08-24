@@ -1,10 +1,5 @@
-# Modify these paths for your system.
-TOOLS=/Users/bng/tools
-TRILINSTALLDIR=../install
-MPIDIR=$TOOLS/bin
-BOOSTDIR=$TOOLS
-PARMETISDIR=$TOOLS
-HAVE_LL=ON
+# Modify this path for your system.
+TRILINSTALLDIR=/path/to/trilinos/install
 
 rm -f CMakeCache.txt;
 
