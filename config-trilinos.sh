@@ -1,5 +1,5 @@
 # Modify this path for your system.
-TRILINSTALLDIR=/path/to/trilinos/install
+TRILINSTALLDIR=../install
 
 rm -f CMakeCache.txt;
 
